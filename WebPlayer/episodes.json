@@ -1,104 +1,70 @@
 [
   {
-    "id": 3,
-    "title_id": 2,
+    "id": 9,
+    "title_id": 14,
     "season": 1,
     "episode": 1,
-    "name": "1 серия",
+    "name": "1 Серия",
     "qualities": [
       {
-        "quality": "720p",
-        "url": "https://myanimevost.com/save.php?file=MjQ3fDEtc2VyaXlhfDEwMzE1NDY2Njd8MDdZMHwy",
+        "quality": "480p",
+        "url": "https://myanimevost.com/save.php?file=MjQ2fDEtc2VyaXlhfDY5NDU4OTY4N3xWMGRYaFFNR3wy",
         "size_mb": null
       }
     ],
-    "thumbnail_url": "https://img.animerf.com/pic/247_mini.jpg",
+    "thumbnail_url": "https://v3.animevost-rf.com/anime.php?i=246",
     "duration": null,
-    "created_at": "2025-10-21 12:30:27.888137"
+    "created_at": "2025-12-24 17:00:24.622501"
   },
   {
-    "id": 4,
-    "title_id": 2,
-    "season": 1,
-    "episode": 2,
-    "name": "2 серия",
-    "qualities": [
-      {
-        "quality": "720p",
-        "url": "https://myanimevost.com/save.php?file=MjQ3fDItc2VyaXlhfDYxMjY0NTExMXwwN1kwfDI=",
-        "size_mb": null
-      }
-    ],
-    "thumbnail_url": "https://img.animerf.com/pic/247_mini.jpg",
-    "duration": null,
-    "created_at": "2025-10-21 13:01:25.924334"
-  },
-  {
-    "id": 5,
-    "title_id": 2,
-    "season": 1,
-    "episode": 3,
-    "name": "3 серия",
-    "qualities": [
-      {
-        "quality": "720p",
-        "url": "https://myanimevost.com/save.php?file=MjQ3fDMtc2VyaXlhfDE3NDc5NjUzODR8MDdZMHwy",
-        "size_mb": null
-      }
-    ],
-    "thumbnail_url": "https://img.animerf.com/pic/247_mini.jpg",
-    "duration": null,
-    "created_at": "2025-10-21 13:04:52.959749"
-  },
-  {
-    "id": 6,
-    "title_id": 2,
-    "season": 1,
-    "episode": 4,
-    "name": "4 серия",
-    "qualities": [
-      {
-        "quality": "720p",
-        "url": "https://myanimevost.com/save.php?file=MjQ3fDQtc2VyaXlhfDEwODQ3NzcyNHwwN1kwfDI=",
-        "size_mb": null
-      }
-    ],
-    "thumbnail_url": "https://img.animerf.com/pic/247_mini.jpg",
-    "duration": null,
-    "created_at": "2025-10-21 13:06:45.295626"
-  },
-  {
-    "id": 7,
-    "title_id": 2,
+    "id": 10,
+    "title_id": 15,
     "season": 1,
     "episode": 1,
-    "name": "5 серия",
+    "name": "1 Серия",
     "qualities": [
       {
-        "quality": "720p",
-        "url": "https://myanimevost.com/save.php?file=MjQ3fDUtc2VyaXlhfDEwMTczNjcyMzh8MDdZMHwy",
+        "quality": "480p",
+        "url": "https://myanimevost.com/save.php?file=NTJ8MS1zZXJpeWF8MTIwNDg4NTk0NHxWMGRYaFFNR3wy",
         "size_mb": null
       }
     ],
-    "thumbnail_url": "https://img.animerf.com/pic/247_mini.jpg",
+    "thumbnail_url": "https://img.animerf.com/pic/52_logo.jpg",
     "duration": null,
-    "created_at": "2025-10-21 13:07:41.892159"
+    "created_at": "2025-12-24 17:03:58.883335"
   },
   {
-    "id": 8,
-    "title_id": 3,
+    "id": 11,
+    "title_id": 16,
     "season": 1,
     "episode": 1,
     "name": "1 Серия",
     "qualities": [
       {
         "quality": "720p",
-        "url": "https://animevost-file.com/save.php?file=MTQ2M3wxLXNlcml5YXwyMTQ3Mzk0NjUxfFJmTksxfDM=",
+        "url": "https://theanimevost.com/save.php?file=MzM0N3wxLXNlcml5YXwxMDU1OTIzMzAwfEZaemN8Mw==",
         "size_mb": null
       }
     ],
-    "thumbnail_url": "https://img.animerf.com/pic/1463_logo.jpg",
+    "thumbnail_url": "https://img.animerf.com/pic/3347_mini.jpg",
     "duration": null,
-    "created_at": "2025-10-24 14:38:49.078003"
+    "created_at": "2025-12-25 10:36:19.144041"
+  },
+  {
+    "id": 12,
+    "title_id": 17,
+    "season": 1,
+    "episode": 1,
+    "name": "1 Серия",
+    "qualities": [
+      {
+        "quality": "720p",
+        "url": "https://theanimevost.com/save.php?file=MzE1MHwxLXNlcml5YXwyMTQ3NDIzMzQ3fEZaemN8Mw==",
+        "size_mb": null
+      }
+    ],
+    "thumbnail_url": "https://img.animerf.com/pic/3150_mini.jpg",
+    "duration": null,
+    "created_at": "2025-12-25 10:43:05.654822"
   }
 ]

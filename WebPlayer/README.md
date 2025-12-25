@@ -10,6 +10,37 @@
 - ⚡ Быстрая работа с JSON хранилищем
 - 🎯 Минималистичный код
 
+## Деплой на сервер
+
+### Вариант 1: Docker (рекомендуется)
+```bash
+# На сервере
+git clone <your-repo>
+cd WebPlayer
+docker-compose up -d
+```
+
+### Вариант 2: Systemd сервис
+```bash
+# Загрузите файлы на сервер и выполните:
+chmod +x deploy.sh
+./deploy.sh
+```
+
+### Вариант 3: Nginx + SSL
+```bash
+# Установите nginx
+sudo apt install nginx certbot python3-certbot-nginx
+
+# Скопируйте конфиг
+sudo cp nginx.conf /etc/nginx/sites-available/webplayer
+sudo ln -s /etc/nginx/sites-available/webplayer /etc/nginx/sites-enabled/
+sudo nginx -t && sudo systemctl reload nginx
+
+# Получите SSL сертификат
+sudo certbot --nginx -d your-domain.com
+```
+
 ## Быстрый старт
 
 ### Установка зависимостей
